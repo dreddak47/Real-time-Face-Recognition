@@ -1,7 +1,4 @@
-# Real Time Face Recognition (OpenCV)
-
-Create a fast real-time face recognition app with a few lines of Python code.
-
+# Real Time Face Recognition
 ![gif](gif.gif)
 
 ## Steps:
@@ -20,7 +17,7 @@ Create a fast real-time face recognition app with a few lines of Python code.
 
 ```json
 {
-    "1": "Joe"
+    "1": "Aekansh"
 }
 ```
 
